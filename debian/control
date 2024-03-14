@@ -1,0 +1,13 @@
+Source: aut
+Section: unknown
+Priority: optional
+Maintainer: kenz4788 <kenz4788@gmail.com>
+Build-Depends: devscripts, python3-setuptools, python3-pip, git
+Standards-Version: 3.9.6
+Homepage: <https://github.com/autonity/aut>
+
+Package: aut
+Architecture: all
+Depends: ${python3:Depends}, ${misc:Depends}, python3-pip
+Description: command-line RPC client for Autonity
+ This package contains the Autonity tool .
