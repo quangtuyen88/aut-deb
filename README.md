@@ -4,6 +4,7 @@ requirement :
 
 ```
 sudo apt-get install dpkg-dev devscripts python3-setuptools python3-pip git
+
 ```
 2. build deb :
 
